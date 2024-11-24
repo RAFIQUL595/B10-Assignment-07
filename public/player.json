@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/fSQT41n/388377.webp",
+    "Player_name": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm offbreak",
+    "price": 200000
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/hBJ9w7Y/375782.webp",
+    "Player_name": "David Warner",
+    "country": "Australia",
+    "playing_role": "Batsman",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm legbreak",
+    "price": 300000
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/bsfjvSk/384052.webp",
+    "Player_name": "Virat Kohli",
+    "country": "India",
+    "playing_role": "Batsman",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "price": 500000
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/MGrnwcm/376093.webp",
+    "Player_name": "Kane Williamson",
+    "country": "New Zealand",
+    "playing_role": "Batsman",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm offbreak",
+    "price": 150000
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co.com/MB0yv1N/379121.webp",
+    "Player_name": "Ben Stokes",
+    "country": "England",
+    "playing_role": "All-rounder",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "price": 400000
+  },
+  {
+    "id": 6,
+    "cover": "https://i.ibb.co.com/9ZVX0t1/383559.webp",
+    "Player_name": "Pat Cummins",
+    "country": "Australia",
+    "playing_role": "Bowler",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "price": 350000
+  },
+  {
+    "id": 7,
+    "cover": "https://i.ibb.co.com/3CMY4g9/389441.webp",
+    "Player_name": "Jasprit Bumrah",
+    "country": "India",
+    "playing_role": "Bowler",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "price": 120000
+  },
+  {
+    "id": 8,
+    "cover": "https://i.ibb.co.com/S0trTjL/369803.webp",
+    "Player_name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "price": 700000
+  },
+  {
+    "id": 9,
+    "cover": "https://i.ibb.co.com/L8yGDkC/378631.webp",
+    "Player_name": "Trent Boult",
+    "country": "New Zealand",
+    "playing_role": "Bowler",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "price": 280000
+  }
+]
